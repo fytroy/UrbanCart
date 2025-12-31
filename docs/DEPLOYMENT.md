@@ -131,7 +131,7 @@ railway up
 
 2. **Get Connection String**
 ```
-mongodb+srv://username:password@cluster.mongodb.net/urbancart
+*****************
 ```
 
 3. **Set Environment Variable**
